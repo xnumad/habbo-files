@@ -1,5 +1,6 @@
 # habbo-articles
 All Google indexed articles about Habbo. Feel free to contribute.
+<a href=" https://inesreisx.github.io/habbo-articles/>Archive page in progress.</a>
 
 > Notes:
 Possibly interesting topics, unable to get pdf format:
