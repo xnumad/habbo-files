@@ -128,7 +128,7 @@ Closed:<br>
 <hr>
 > <strong><u>Useful Habbo sites:</u></strong>
 <ul>
-  Biggest Habbo Archive/Chronology:<a href="https://www.habborator.org/">Habborator></a><br>
+  Biggest Habbo Archive/Chronology:<a href="https://www.habborator.org/">Habborator</a><br>
   Habbo Fonts Generator:<a href="https://habbofont.net/">HabboFont</a><br>
   Largest Habbo Images Archive:<a href="https://viajovem.blogspot.com/">ViaJovem</a><br>
   Largest Habbo Badges Archive:<a href="https://pixelsemotion.tumblr.com/">PixelsEmotion</a><br>
