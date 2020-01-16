@@ -27,7 +27,7 @@ Dangerous links (there are many others, be careful while opening tabs):
 
 #### Habbo-fansites (official and non-official): an attempt to list them all (the idea is to analyse the type of content produced within the global Habbo community, design choices of websites and marketing material and what drives players to create fansites). Random order.
 Active communities as for 2020:<br>
-🇬🇧 .com<br>
+🇬🇧 .com
 <ul>
     <li><a href="https://habboquests.co/">HabboQuests</a></li>
     <li><a href="https://habbox.com/"></a>Habbox</li>
