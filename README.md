@@ -75,7 +75,6 @@ Active communities as for 2020:<br>
   <li><a href="https://www.habbolifeforum.com/">HabboLifeForum</a></li>
   <li><a href="https://habboinhabbo.it/">HabboInHabbo</a></li>
   <li><a href="https://www.habbotravel.com/">HabboTravel</a></li>
-  <li><a href=""></a></li>
 </ul>
 🇫🇷 .fr<br>
 <ul>
@@ -111,7 +110,6 @@ Active communities as for 2020:<br>
    <li><a href="https://habbolar.com/">Habbolar</a></li>
    <li><a href="https://habbotar.com/">HabboTar</a></li>
 </ul>
- <li><a href=""></a></li>
 Closed:<br>
 🇨🇭 .ch<br>
 🇯🇵 .jp<br>
