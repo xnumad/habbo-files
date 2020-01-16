@@ -28,23 +28,23 @@ Dangerous links (there are many others, be careful while opening tabs):
 #### Habbo-fansites: an attempt to list them all (the idea is to analyse the type of content produced within the global Habbo community, design choices of websites and marketing material and what drives players to create fansites)
 Active communities:<br>
 🇬🇧 .com<br>
-.br<br>
-.es<br>
-.it<br>
-.fr<br>
-.nl<br>
-.de<br>
-.fi<br>
-.tr<br>
-<br>
+🇧🇷 .br<br>
+🇪🇸 .es<br>
+🇮🇹 .it<br>
+🇫🇷 .fr<br>
+🇳🇱 .nl<br>
+🇩🇪 .de<br>
+🇫🇮 .fi<br>
+🇹🇷 .tr<br>
+
 Closed:<br>
-.ch<br>
-.jp<br>
-.se<br>
-.ca<br>
-.no<br>
-.com.sg<br>
-.dk<br>
-.cn<br>
-.ru<br>
+🇨🇭 .ch<br>
+🇯🇵 .jp<br>
+🇸🇪 .se<br>
+🇨🇦 .ca<br>
+🇳🇴 .no<br>
+🇸🇬 .com.sg<br>
+🇩🇰 .dk<br>
+🇨🇳 .cn<br>
+🇷🇺 .ru<br>
 
