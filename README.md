@@ -128,13 +128,13 @@ Closed:<br>
 <hr>
 > <strong><u>Useful Habbo sites:</u></strong>
 <ul>
-  Biggest Habbo Archive/Chronology:<a href="https://www.habborator.org/">Habborator</a><br>
-  Habbo Fonts Generator:<a href="https://habbofont.net/">HabboFont</a><br>
-  Largest Habbo Images Archive:<a href="https://viajovem.blogspot.com/">ViaJovem</a><br>
-  Largest Habbo Badges Archive:<a href="https://pixelsemotion.tumblr.com/">PixelsEmotion</a><br>
-  Old In-Game Habbo Photos Repository:<a href="https://habbo.gallery/">HabboGallery</a><br>
+  Biggest Habbo Archive/Chronology: <a href="https://www.habborator.org/">Habborator</a><br>
+  Habbo Fonts Generator: <a href="https://habbofont.net/">HabboFont</a><br>
+  Largest Habbo Images Archive: <a href="https://viajovem.blogspot.com/">ViaJovem</a><br>
+  Largest Habbo Badges Archive: <a href="https://pixelsemotion.tumblr.com/">PixelsEmotion</a><br>
+  Old In-Game Habbo Photos Repository: <a href="https://habbo.gallery/">HabboGallery</a><br>
   Only real-time marketplace website: MercadoHabbo<br>
-  Extract information about Habbos:<a href="https://www.habbowidgets.com/">HabboWidgets</a><br>
+  Extract information about Habbos: <a href="https://www.habbowidgets.com/">HabboWidgets</a><br>
   
 <hr>
 Reddit thread <a href="https://www.reddit.com/r/habbo/comments/ep6cwb/is_there_a_list_of_all_habbo_fansites/">here.</a>
