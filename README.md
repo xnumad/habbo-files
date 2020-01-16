@@ -25,8 +25,8 @@ Dangerous links (there are many others, be careful while opening tabs):
 # Extra Information
 #### Interesting authors: <a href="https://www.linkedin.com/in/mikaeljohnson/">Mikael Johnson</a>, <a href="https://www.linkedin.com/in/juha-matti-vanhatupa-421a373b/">Juha-Matti Vanhatupa</a>, <a href="https://www.linkedin.com/in/jani-merikivi-2a10011/">Jani Merikivi</a>, <a href="https://www.linkedin.com/in/matti-m%C3%A4ntym%C3%A4ki-84530612/">Matti Mäntymäki</a>, <a href="https://www.linkedin.com/in/vililehdonvirta/">Vili Lehdonvirta</a>
 
-#### Habbo-fansites (official and non-official): an attempt to list them all (the idea is to analyse the type of content produced within the global Habbo community, design choices of websites and marketing material, as well as analyse what drives players to create independent fansites). Note: Listed in no specific order.
-Active communities as for 2020:<br>
+#### Habbo-fansites (official and non-official): an attempt to list them all (the idea is to analyse the type of content produced within the global Habbo community, design choices of websites and marketing material, as well as analyse what drives players to create independent fansites).<br>
+Note: Listed in no specific order. Active communities as for 2020:<br>
 <br>
 🇬🇧 .com<br>
 <ul>
@@ -134,3 +134,7 @@ Closed:<br>
   Old In-Game Habbo Photos Repository:<a href="https://habbo.gallery/">HabboGallery</a><br>
   Only real-time marketplace website: MercadoHabbo<br>
   Extract information about Habbos:<a href="https://www.habbowidgets.com/">HabboWidgets</a><br>
+  
+ <hr>
+ Reddit thread <a href="https://www.reddit.com/r/habbo/comments/ep6cwb/is_there_a_list_of_all_habbo_fansites/">here</a>
+ If you also like to collect this type of stuff or research about the game, please feel free to contribute, it would help a lot. tysm.
