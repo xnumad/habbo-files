@@ -61,6 +61,7 @@ Active communities as for 2020:<br>
   <li><a href="">Habbid</a></li>
   <li><a href="">Café Dourado</a></li>
   <li><a href="https://viajovem.blogspot.com/">ViaJovem</a></li>
+  <li><a href="https://pixelsemotion.tumblr.com/">PixelsEmotion</a></li>
 </ul>
 🇪🇸 .es<br>
 <ul>
@@ -70,6 +71,7 @@ Active communities as for 2020:<br>
   <li><a href="https://habtium.es/">Habtium</a></li>
   <li><a href="https://habsite.es/">Habsite</a></li>
   <li><a href="http://habbosecurity.es/">Habbosecurity</a></li>
+  <li><a href="http://hartixsite.blogspot.com/">Hartixsite</a></li>
 </ul>
 🇮🇹 .it<br>
 <ul>
@@ -98,11 +100,13 @@ Active communities as for 2020:<br>
    <li><a href="https://habview.net/">HabView</a></li>
    <li><a href="https://playhab.fm/">PlayHab.FM</a></li>
    <li><a href="">HabboTimes</a></li>
+   <li><a href="https://www.habmusic.de/">HabMusic</a></li>
 </ul>
 🇫🇮 .fi<br>
 <ul>
-  <li><a href="https://fuusio.net/">HabCat</a></li>
+  <li><a href="">HabCat</a></li>
   <li><a href="https://bottila.com/">Bottila</a></li>
+  <li><a href="https://fuusio.net/">Fuusio</a></li>(HabCat fused with Bottila)
   <li><a href="https://puhekupla.com/en/home">Puhekupla</a></li>
 </ul>
 🇹🇷 .tr<br>
@@ -126,6 +130,7 @@ Closed:<br>
 <ul>
   Habbo Fonts Generator:<a href="https://habbofont.net/">HabboFont</a><br>
   Largest Habbo Images Archive:<a href="https://viajovem.blogspot.com/">ViaJovem</a><br>
+  Largest Habbo Badges Archive:<a href="https://pixelsemotion.tumblr.com/">PixelsEmotion</a><br>
   Old In-Game Habbo Photos Repository:<a href="https://habbo.gallery/">HabboGallery</a><br>
   Only real-time marketplace website: MercadoHabbo<br>
   Extract information about Habbos:<a href="https://www.habbowidgets.com/">HabboWidgets</a><br>
