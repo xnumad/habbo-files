@@ -45,7 +45,6 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
     <li><a href="">HabboCreation</a></li>
     <li><a href="">HabboExtra</a></li>
     <li><a href="">HabboKingdom</a></li>
-    <li><a href="https://elinazahabbo.blogspot.com/">Elinaza</a></li>
 </ul>
 🇧🇷 .br<br>
 <ul>
@@ -63,6 +62,7 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
   <li><a href="">Café Dourado</a></li>
   <li><a href="https://viajovem.blogspot.com/">ViaJovem</a></li>
   <li><a href="https://pixelsemotion.tumblr.com/">PixelsEmotion</a></li>
+  <li><a href="https://elinazahabbo.blogspot.com/">Elinaza</a></li>
 </ul>
 🇪🇸 .es<br>
 <ul>
