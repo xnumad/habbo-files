@@ -25,7 +25,7 @@ Dangerous links (there are many others, be careful while opening tabs):
 # Extra Information
 #### Interesting authors: <a href="https://www.linkedin.com/in/mikaeljohnson/">Mikael Johnson</a>, <a href="https://www.linkedin.com/in/juha-matti-vanhatupa-421a373b/">Juha-Matti Vanhatupa</a>, <a href="https://www.linkedin.com/in/jani-merikivi-2a10011/">Jani Merikivi</a>, <a href="https://www.linkedin.com/in/matti-m%C3%A4ntym%C3%A4ki-84530612/">Matti Mäntymäki</a>, <a href="https://www.linkedin.com/in/vililehdonvirta/">Vili Lehdonvirta</a>
 
-#### Habbo-fansites (official and non-official): an attempt to list them all (the idea is to analyse the type of content produced within the global Habbo community, design choices of websites and marketing material and what drives players to create fansites). In no specific order.
+#### Habbo-fansites (official and non-official): an attempt to list them all (the idea is to analyse the type of content produced within the global Habbo community, design choices of websites and marketing material, as well as analyse what drives players to create independent fansites). Note: Listed in no specific order.
 Active communities as for 2020:<br>
 <br>
 🇬🇧 .com<br>
@@ -106,7 +106,7 @@ Active communities as for 2020:<br>
 <ul>
   <li><a href="">HabCat</a></li>
   <li><a href="https://bottila.com/">Bottila</a></li>
-  <li><a href="https://fuusio.net/">Fuusio</a>(HabCat fused with Bottila)</li>
+  <li><a href="https://fuusio.net/">Fuusio</a> (HabCat fused with Bottila)</li>
   <li><a href="https://puhekupla.com/en/home">Puhekupla</a></li>
 </ul>
 🇹🇷 .tr<br>
