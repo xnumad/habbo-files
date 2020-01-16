@@ -125,7 +125,8 @@ Closed:<br>
 <hr>
 #### Useful Habbo sites:
 <ul>
-  Habbo Fonts Generator:<a href="https://habbofont.net/">HabboFont</a>
-  Largest Habbo Images Archive:<a href="https://viajovem.blogspot.com/">ViaJovem</a>
-  Old In-Game Habbo Photos Repository:<a href="https://habbo.gallery/">HabboGallery</a>
-  Only real-time marketplace website: MercadoHabbo
+  Habbo Fonts Generator:<a href="https://habbofont.net/">HabboFont</a><br>
+  Largest Habbo Images Archive:<a href="https://viajovem.blogspot.com/">ViaJovem</a><br>
+  Old In-Game Habbo Photos Repository:<a href="https://habbo.gallery/">HabboGallery</a><br>
+  Only real-time marketplace website: MercadoHabbo<br>
+  Extract information about Habbos:<li><a href="https://www.habbowidgets.com/">HabboWidgets</a></li><br>
