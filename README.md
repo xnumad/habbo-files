@@ -45,6 +45,7 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
     <li><a href="">HabboCreation</a></li>
     <li><a href="">HabboExtra</a></li>
     <li><a href="">HabboKingdom</a></li>
+    <li><a href="https://elinazahabbo.blogspot.com/">Elinaza</a></li>
 </ul>
 🇧🇷 .br<br>
 <ul>
