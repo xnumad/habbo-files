@@ -26,25 +26,25 @@ Dangerous links (there are many others, be careful while opening tabs):
 #### Interesting authors: <a href="https://www.linkedin.com/in/mikaeljohnson/">Mikael Johnson</a>, <a href="https://www.linkedin.com/in/juha-matti-vanhatupa-421a373b/">Juha-Matti Vanhatupa</a>, <a href="https://www.linkedin.com/in/jani-merikivi-2a10011/">Jani Merikivi</a>, <a href="https://www.linkedin.com/in/matti-m%C3%A4ntym%C3%A4ki-84530612/">Matti Mäntymäki</a>, <a href="https://www.linkedin.com/in/vililehdonvirta/">Vili Lehdonvirta</a>
 
 #### Habbo-fansites: an attempt to list them all (the idea is to analyse the type of content produced within the global Habbo community, design choices of websites and marketing material and what drives players to create fansites)
-Active communities:
-🇬🇧 .com
-.br
-.es
-.it
-.fr
-.nl
-.de
-.fi
-.tr
-
-Closed:
-.ch
-.jp
-.se
-.ca
-.no
-.com.sg
-.dk
-.cn
-.ru
+Active communities:<br>
+🇬🇧 .com<br>
+.br<br>
+.es<br>
+.it<br>
+.fr<br>
+.nl<br>
+.de<br>
+.fi<br>
+.tr<br>
+<br>
+Closed:<br>
+.ch<br>
+.jp<br>
+.se<br>
+.ca<br>
+.no<br>
+.com.sg<br>
+.dk<br>
+.cn<br>
+.ru<br>
 
