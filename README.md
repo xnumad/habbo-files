@@ -51,7 +51,7 @@ Active communities as for 2020:<br>
   <li><a href="http://coldhabbo.com.br/">ColdHabbo</a></li>
   <li><a href="https://www.habblindados.com.br/">Habblindados</a></li>
   <li><a href="http://www.habbocolor.com.br/"></a>HabboColor</li>
-  <li><a href="http://habbonight.com.br/">HabboNight</a>/li>
+  <li><a href="http://habbonight.com.br/">HabboNight</a></li>
   <li><a href="https://raduckets.com.br/">Raduckets</a></li>
   <li><a href="https://lefrank.com.br/">LeFrank</a></li>
   <li><a href="">CaféPixelado</a></li>
