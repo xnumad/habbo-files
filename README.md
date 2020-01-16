@@ -123,7 +123,7 @@ Closed:<br>
 🇨🇳 .cn<br>
 🇷🇺 .ru<br>
 <hr>
->Useful Habbo sites:
+> <strong><u>Useful Habbo sites:</u></strong>
 <ul>
   Habbo Fonts Generator:<a href="https://habbofont.net/">HabboFont</a><br>
   Largest Habbo Images Archive:<a href="https://viajovem.blogspot.com/">ViaJovem</a><br>
