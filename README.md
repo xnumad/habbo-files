@@ -25,7 +25,7 @@ Dangerous links (there are many others, be careful while opening tabs):
 # Extra Information
 #### Interesting authors: <a href="https://www.linkedin.com/in/mikaeljohnson/">Mikael Johnson</a>, <a href="https://www.linkedin.com/in/juha-matti-vanhatupa-421a373b/">Juha-Matti Vanhatupa</a>, <a href="https://www.linkedin.com/in/jani-merikivi-2a10011/">Jani Merikivi</a>, <a href="https://www.linkedin.com/in/matti-m%C3%A4ntym%C3%A4ki-84530612/">Matti Mäntymäki</a>, <a href="https://www.linkedin.com/in/vililehdonvirta/">Vili Lehdonvirta</a>
 
-#### Habbo-fansites: an attempt to list them all (the idea is to analyse the type of content produced within the global Habbo community, design choices of websites and marketing material and what drives players to create fansites). Random order.
+#### Habbo-fansites (official and non-official): an attempt to list them all (the idea is to analyse the type of content produced within the global Habbo community, design choices of websites and marketing material and what drives players to create fansites). Random order.
 Active communities as for 2020:<br>
 🇬🇧 .com<br>
 <ul>
@@ -38,6 +38,12 @@ Active communities as for 2020:<br>
     <li><a href=""></a>FlyHabbo</li>
     <li><a href=""></a>ThisHabbo</li>
     <li><a href=""></a>Habboshire</li>
+    <li><a href="">Habulous</a></li>
+    <li><a href="">HabHome</a></li>
+    <li><a href="">Habbosphere</a></li>
+    <li><a href="">HabboCreation</a></li>
+    <li><a href="">HabboExtra</a></li>
+    <li><a href="">HabboKingdom</a></li>
 </ul>
 🇧🇷 .br<br>
 <ul>
@@ -50,6 +56,10 @@ Active communities as for 2020:<br>
   <li><a href="https://lefrank.com.br/">LeFrank</a></li>
   <li><a href="">CaféPixelado</a></li>
   <li><a href="https://www.isbobba.me/">isBobba</a></li>
+  <li><a href="http://prohabbo.com.br/">ProHabbo</a></li>
+  <li><a href="">Habbid</a></li>
+  <li><a href="">Café Dourado</a></li>
+  <li><a href="https://viajovem.blogspot.com/">ViaJovem</a></li>
 </ul>
 🇪🇸 .es<br>
 <ul>
@@ -63,31 +73,45 @@ Active communities as for 2020:<br>
 🇮🇹 .it<br>
 <ul>
   <li><a href="https://www.habbolifeforum.com/">HabboLifeForum</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://habboinhabbo.it/">HabboInHabbo</a></li>
+  <li><a href="https://www.habbotravel.com/">HabboTravel</a></li>
   <li><a href=""></a></li>
 </ul>
 🇫🇷 .fr<br>
 <ul>
-  <li><a href=""></a></li>
+  <li><a href="https://habbstars.org/">HabbStars</a></li>
+  <li><a href="https://habbgames.fr/news">HabbGames</a></li>
+  <li><a href="http://habboandchill.org/">HabboAndChill</a></li>
+  <li><a href="http://mangetoica.com/">Mangetoica</a></li>
 </ul>
 🇳🇱 .nl<br>
 <ul>
-  <li><a href=""></a></li>
+  <li><a href="https://www.habbomix.nl/index">HabboMix</a></li>
+  <li><a href="http://www.habbofun.nl/">HabboFun</a></li>
+  <li><a href="https://habbofever.be/">HabboFever</a></li>
+  <li><a href="https://habbohelpers.com/">HabboHelpers</a></li>
+  <li><a href="https://www.habbowidgets.com/">HabboWidgets</a></li>
 </ul>
 🇩🇪 .de<br>
 <ul>
-  <li><a href=""></a></li>
+  <li><a href="http://ende.habbonews.eu/">HabboNews</a></li>
+   <li><a href="https://habview.net/">HabView</a></li>
+   <li><a href="https://playhab.fm/">PlayHab.FM</a></li>
+   <li><a href="">HabboTimes</a></li>
 </ul>
 🇫🇮 .fi<br>
 <ul>
-  <li><a href=""></a></li>
+  <li><a href="https://fuusio.net/">HabCat</a></li>
+  <li><a href="https://bottila.com/">Bottila</a></li>
+  <li><a href="https://puhekupla.com/en/home">Puhekupla</a></li>
 </ul>
 🇹🇷 .tr<br>
 <ul>
-  <li><a href=""></a></li>
+   <li><a href="">HabboLoji</a></li>
+   <li><a href="https://habbolar.com/">Habbolar</a></li>
+   <li><a href="https://habbotar.com/">HabboTar</a></li>
 </ul>
-
+ <li><a href=""></a></li>
 Closed:<br>
 🇨🇭 .ch<br>
 🇯🇵 .jp<br>
@@ -98,4 +122,10 @@ Closed:<br>
 🇩🇰 .dk<br>
 🇨🇳 .cn<br>
 🇷🇺 .ru<br>
-
+<hr>
+#### Useful Habbo sites:
+<ul>
+  Habbo Fonts Generator:<a href="https://habbofont.net/">HabboFont</a>
+  Largest Habbo Images Archive:<a href="https://viajovem.blogspot.com/">ViaJovem</a>
+  Old In-Game Habbo Photos Repository:<a href="https://habbo.gallery/">HabboGallery</a>
+  Only real-time marketplace website: MercadoHabbo
