@@ -136,7 +136,3 @@ Closed:<br>
   Old In-Game Habbo Photos Repository: <a href="https://habbo.gallery/">HabboGallery</a><br>
   Only real-time marketplace website: MercadoHabbo<br>
   Extract information about Habbos: <a href="https://www.habbowidgets.com/">HabboWidgets</a><br>
-  
-<hr>
-Reddit thread <a href="https://www.reddit.com/r/habbo/comments/ep6cwb/is_there_a_list_of_all_habbo_fansites/">here.</a>
- If you also like to collect this type of stuff or research about the game, please feel free to contribute, it would help a lot. tysm.
