@@ -45,6 +45,13 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
     <li><a href="">HabboCreation</a></li>
     <li><a href="">HabboExtra</a></li>
     <li><a href="">HabboKingdom</a></li>
+    <li><a href="">SayHabbo</a></li>
+    <li><a href="">Habtastic</a></li>
+    <li><a href="">HabFab</a></li>
+    <li><a href="">NowHabbo</a></li>
+    <li><a href="">Habbang</a></li>
+    <li><a href="">Pixel Weekly</a></li>
+    <li><a href="">Habbosphere</a></li>
 </ul>
 🇧🇷 .br<br>
 <ul>
@@ -63,6 +70,18 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
   <li><a href="https://viajovem.blogspot.com/">ViaJovem</a></li>
   <li><a href="https://pixelsemotion.tumblr.com/">PixelsEmotion</a></li>
   <li><a href="https://elinazahabbo.blogspot.com/">Elinaza</a></li>
+  <li><a href="/">iBobba</a></li>
+  <li><a href="rabbis.webnode.com/">Rabbis</a></li>
+  <li><a href="">MaisHabbo</a></li>
+  <li><a href="">HabboTeens</a></li>
+  <li><a href="">HabboSystem</a></li>
+  <li><a href="">HabboItnews</a></li>
+  <li><a href="">Army News</a></li>
+  <li><a href="">Habbobeira</a></li>
+  <li><a href="">Habb8</a></li>
+  <li><a href="">Habbolia</a></li>
+  <li><a href="">Habbloide</a></li>
+  <li><a href="">Habbenk</a></li>
 </ul>
 🇪🇸 .es<br>
 <ul>
@@ -73,12 +92,18 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
   <li><a href="https://habsite.es/">Habsite</a></li>
   <li><a href="http://habbosecurity.es/">Habbosecurity</a></li>
   <li><a href="http://hartixsite.blogspot.com/">Hartixsite</a></li>
+  <li><a href="habblex.comlu.com/">Habblex</a></li>
+  <li><a href="hlatinos.com/">Habbolatinos</a></li>
+  <li><a href="">HabboMore</a></li>
+  <li><a href="">Habberly</a></li>
+  <li><a href="">HabToons</a></li>
 </ul>
 🇮🇹 .it<br>
 <ul>
   <li><a href="https://www.habbolifeforum.com/">HabboLifeForum</a></li>
   <li><a href="https://habboinhabbo.it/">HabboInHabbo</a></li>
   <li><a href="https://www.habbotravel.com/">HabboTravel</a></li>
+  <li><a href="">HabboHours</a></li>
 </ul>
 🇫🇷 .fr<br>
 <ul>
@@ -86,6 +111,10 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
   <li><a href="https://habbgames.fr/news">HabbGames</a></li>
   <li><a href="http://habboandchill.org/">HabboAndChill</a></li>
   <li><a href="http://mangetoica.com/">Mangetoica</a></li>
+  <li><a href="">SpeedHabbo</a></li>
+  <li><a href="">Hablei</a></li>
+  <li><a href="">Sound-Habbo</a></li>
+  <li><a href="">HabbServices</a></li>
 </ul>
 🇳🇱 .nl<br>
 <ul>
@@ -94,6 +123,8 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
   <li><a href="https://habbofever.be/">HabboFever</a></li>
   <li><a href="https://habbohelpers.com/">HabboHelpers</a></li>
   <li><a href="https://www.habbowidgets.com/">HabboWidgets</a></li>
+  <li><a href="">BigHabbo</a></li>
+  <li><a href="">HabboCool</a></li>
 </ul>
 🇩🇪 .de<br>
 <ul>
@@ -102,6 +133,8 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
    <li><a href="https://playhab.fm/">PlayHab.FM</a></li>
    <li><a href="">HabboTimes</a></li>
    <li><a href="https://www.habmusic.de/">HabMusic</a></li>
+   <li><a href="">iBobba.de</a></li>
+   <li><a href="">Planet-Habbos</a></li>
 </ul>
 🇫🇮 .fi<br>
 <ul>
