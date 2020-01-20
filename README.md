@@ -35,7 +35,7 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
     <li><a href="https://www.habbocreate.com/">HabboCreate</a></li>
     <li><a href="https://hffm.co/home">HFFM</a></li>
     <li><a href="https://www.habbobites.com/">HabboBites</a></li>
-    <li>>HabboTiles</li>
+    <li>HabboTiles</li>
     <li>FlyHabbo</li>
     <li>ThisHabbo</li>
     <li>Habboshire</li>
