@@ -44,7 +44,7 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
     <li>Habbosphere</li>
     <li>HabboCreation</li>
     <li>HabboExtra</li>
-    <li>HabboKingdom></li>
+    <li>HabboKingdom</li>
     <li>SayHabbo</li>
     <li>Habtastic</li>
     <li>HabFab</li>
@@ -255,3 +255,4 @@ Closed:<br>
   Old In-Game Habbo Photos Repository: <a href="https://habbo.gallery/">HabboGallery</a><br>
   Only real-time marketplace website: MercadoHabbo<br>
   Extract information about Habbos: <a href="https://www.habbowidgets.com/">HabboWidgets</a><br>
+  Habbo Staff/Paul La Fontaine blog: <a href="https://habboblogging.wordpress.com/author/paullafo/">Behind The Pixels</a>
