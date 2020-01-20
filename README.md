@@ -35,23 +35,23 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
     <li><a href="https://www.habbocreate.com/">HabboCreate</a></li>
     <li><a href="https://hffm.co/home">HFFM</a></li>
     <li><a href="https://www.habbobites.com/">HabboBites</a></li>
-    <li><a href=""></a>HabboTiles</li>
-    <li><a href=""></a>FlyHabbo</li>
-    <li><a href=""></a>ThisHabbo</li>
-    <li><a href=""></a>Habboshire</li>
-    <li><a href="">Habulous</a></li>
-    <li><a href="">HabHome</a></li>
-    <li><a href="">Habbosphere</a></li>
-    <li><a href="">HabboCreation</a></li>
-    <li><a href="">HabboExtra</a></li>
-    <li><a href="">HabboKingdom</a></li>
-    <li><a href="">SayHabbo</a></li>
-    <li><a href="">Habtastic</a></li>
-    <li><a href="">HabFab</a></li>
-    <li><a href="">NowHabbo</a></li>
-    <li><a href="">Habbang</a></li>
-    <li><a href="">Pixel Weekly</a></li>
-    <li><a href="">Habbosphere</a></li>
+    <li>>HabboTiles</li>
+    <li>FlyHabbo</li>
+    <li>ThisHabbo</li>
+    <li>Habboshire</li>
+    <li>Habulous</li>
+    <li>HabHome</li>
+    <li>Habbosphere</li>
+    <li>HabboCreation</li>
+    <li>HabboExtra</li>
+    <li>HabboKingdom></li>
+    <li>SayHabbo</li>
+    <li>Habtastic</li>
+    <li>HabFab</li>
+    <li>NowHabbo</li>
+    <li>Habbang</li>
+    <li>Pixel Weekly</li>
+    <li>Habbosphere</li>
     <li>HabboReception</li>
     <li>Habbzoid</li>
     <li>HabboHotelIFM</li>
@@ -78,26 +78,26 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
   <li><a href="http://habbonight.com.br/">HabboNight</a></li>
   <li><a href="https://raduckets.com.br/">Raduckets</a></li>
   <li><a href="https://lefrank.com.br/">LeFrank</a></li>
-  <li><a href="">CaféPixelado</a></li>
+  <li>CaféPixelado</li>
   <li><a href="https://www.isbobba.me/">isBobba</a></li>
   <li><a href="http://prohabbo.com.br/">ProHabbo</a></li>
-  <li><a href="">Habbid</a></li>
-  <li><a href="">Café Dourado</a></li>
+  <li>Habbid</li>
+  <li>Café Dourado</li>
   <li><a href="https://viajovem.blogspot.com/">ViaJovem</a></li>
   <li><a href="https://pixelsemotion.tumblr.com/">PixelsEmotion</a></li>
   <li><a href="https://elinazahabbo.blogspot.com/">Elinaza</a></li>
   <li>iBobba</li>
   <li><a href="rabbis.webnode.com/">Rabbis</a></li>
-  <li><a href="">MaisHabbo</a></li>
-  <li><a href="">HabboTeens</a></li>
-  <li><a href="">HabboSystem</a></li>
-  <li><a href="">HabboItnews</a></li>
-  <li><a href="">Army News</a></li>
-  <li><a href="">Habbobeira</a></li>
-  <li><a href="">Habb8</a></li>
-  <li><a href="">Habbolia</a></li>
-  <li><a href="">Habbloide</a></li>
-  <li><a href="">Habbenk</a></li>
+  <li>MaisHabbo</li>
+  <li>HabboTeens</li>
+  <li>HabboSystem</li>
+  <li>HabboItnews</li>
+  <li>Army News</li>
+  <li>Habbobeira</li>
+  <li>Habb8</li>
+  <li>Habbolia</li>
+  <li>Habbloide</li>
+  <li>Habbenk</li>
   <li>BobbaFM</li>
   <li>Habborgue</li>
   <li>KissHabbo</li>
@@ -201,7 +201,7 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
   <li><a href="http://ende.habbonews.eu/">HabboNews</a></li>
    <li><a href="https://habview.net/">HabView</a></li>
    <li><a href="https://playhab.fm/">PlayHab.FM</a></li>
-   <li><a href="">HabboTimes</a></li>
+   <li>HabboTimes</li>
    <li><a href="https://www.habmusic.de/">HabMusic</a></li>
    <li>iBobba.de</li>
    <li>Planet-Habbos</li>
@@ -225,7 +225,7 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
 </ul>
 🇹🇷 .tr<br>
 <ul>
-   <li><a href="">HabboLoji</a></li>
+   <li>HabboLoji</li>
    <li><a href="https://habbolar.com/">Habbolar</a></li>
    <li><a href="https://habbotar.com/">HabboTar</a></li>
 </ul>
