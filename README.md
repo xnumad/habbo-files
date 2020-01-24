@@ -31,7 +31,7 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
 🇬🇧 .com<br>
 <ul>
   <li><a href="https://habboquests.co/">HabboQuests</a></li>
-    <li><a href="https://habbox.com/"></a>Habbox</li>
+  <li><a href="https://habbox.com/">Habbox</a></li>
     <li><a href="https://www.habbocreate.com/">HabboCreate</a></li>
     <li><a href="https://hffm.co/home">HFFM</a></li>
     <li><a href="https://www.habbobites.com/">HabboBites</a></li>
