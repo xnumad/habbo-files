@@ -256,3 +256,5 @@ Closed:<br>
   Only real-time marketplace website: MercadoHabbo<br>
   Extract information about Habbos: <a href="https://www.habbowidgets.com/">HabboWidgets</a><br>
   Habbo Staff/Paul La Fontaine blog: <a href="https://habboblogging.wordpress.com/author/paullafo/">Behind The Pixels</a>
+  Old files organised by Alex: <a href="https://alex-dev.org/archive/">Alex-dev.org</a>
+  Habbo_Monster_Archives: <a href="http://forum.ragezone.com/f353/habbo-monster-archive-2go-1999-a-1023072/">2GB Folder</a>
