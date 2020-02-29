@@ -255,8 +255,8 @@ Closed:<br>
   Old In-Game Habbo Photos Repository: <a href="https://habbo.gallery/">HabboGallery</a><br>
   Only real-time marketplace website: MercadoHabbo<br>
   Extract information about Habbos: <a href="https://www.habbowidgets.com/">HabboWidgets</a><br>
-  Habbo Staff/Paul La Fontaine blog: <a href="https://habboblogging.wordpress.com/author/paullafo/">Behind The Pixels</a>
-  Old files organised by Alex: <a href="https://alex-dev.org/archive/">Alex-dev.org</a>
+  Habbo Staff/Paul La Fontaine blog: <a href="https://habboblogging.wordpress.com/author/paullafo/">Behind The Pixels</a><br>
+  Old files organised by Alex: <a href="https://alex-dev.org/archive/">Alex-dev.org</a><br>
   Habbo_Monster_Archives: <a href="http://forum.ragezone.com/f353/habbo-monster-archive-2go-1999-a-1023072/">2GB Folder</a><br>
   <br>
   <em>"The problem comes when Sulake knocks on your door. The solution is if more people back it up as well. Then we have a lower chance of losing things."<em>- Moogly
