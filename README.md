@@ -253,7 +253,7 @@ Closed:<br>
   Largest Habbo Images Archive: <a href="https://viajovem.blogspot.com/">ViaJovem</a><br>
   Largest Habbo Badges Archive: <a href="https://pixelsemotion.tumblr.com/">PixelsEmotion</a><br>
   Old In-Game Habbo Photos Repository: <a href="https://habbo.gallery/">HabboGallery</a><br>
-  Only real-time marketplace website: MercadoHabbo<br>
+  Only real-time marketplace website with Habbo.es users' counter: <a href="https://www.mercadohabbo.com/">MercadoHabbo</a><br>
   Extract information about Habbos: <a href="https://www.habbowidgets.com/">HabboWidgets</a><br>
   Habbo Staff/Paul La Fontaine blog: <a href="https://habboblogging.wordpress.com/author/paullafo/">Behind The Pixels</a><br>
   Old files organised by Alex: <a href="https://alex-dev.org/archive/">Alex-dev.org</a><br>
