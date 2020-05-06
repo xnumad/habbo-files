@@ -22,6 +22,11 @@ Dangerous links (there are many others, be careful while opening tabs):
   <li>http://tpcc.org.sg/uploads/1/2/9/6/129642958/faxuxu_habbo_games_guide_niwivopani.pdf</li>
 </ul>
 
+# Contributors
+<ul>
+  <li><a href="https://twitter.com/orangesarepinkk">Elysse</a> with Habbo Research 2004.pdf</li>
+</ul>
+
 # Extra Information
 #### Interesting authors: <a href="https://www.linkedin.com/in/mikaeljohnson/">Mikael Johnson</a>, <a href="https://www.linkedin.com/in/juha-matti-vanhatupa-421a373b/">Juha-Matti Vanhatupa</a>, <a href="https://www.linkedin.com/in/jani-merikivi-2a10011/">Jani Merikivi</a>, <a href="https://www.linkedin.com/in/matti-m%C3%A4ntym%C3%A4ki-84530612/">Matti Mäntymäki</a>, <a href="https://www.linkedin.com/in/vililehdonvirta/">Vili Lehdonvirta</a>
 
