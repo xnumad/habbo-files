@@ -1,4 +1,4 @@
-# habbo-articles
+# Habbo Files
 All Google indexed files about Habbo and Sulake. Feel free to contribute.<br>
 <a href="https://inesreisx.github.io/habbo-articles/">Archive page in progress.</a> Still not sure what's the best way to organise them.
 
