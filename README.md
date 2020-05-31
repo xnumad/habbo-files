@@ -227,6 +227,7 @@ Note: Listed in no specific order. Active communities as for 2020:<br>
   <li>Kuplakellari</li>
   <li>RoboHabbo</li>
   <li>Krokola</li>
+  <li><a href="https://kalasaitti.net/">Kalasaitti</a></li>
 </ul>
 🇹🇷 .tr<br>
 <ul>
